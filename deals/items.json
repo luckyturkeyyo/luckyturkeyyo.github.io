@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:31:36+09:00",
+ "updated": "2026-11-28T08:38:46+09:00",
  "items": [
   {
    "id": "ea049c0a2e",
@@ -644,41 +644,6 @@
    "program": "affiliate",
    "changed": false,
    "day": "11/21 09:02",
-   "channels": [
-    "threads",
-    "x"
-   ]
-  },
-  {
-   "id": "6c44604592",
-   "name": "(아이허브) 닥터스베스트 고흡수 마그네슘 200mg 240정 2개 [42,020원/무배]",
-   "price": 42020,
-   "label": "쿠폰가",
-   "was": 55000,
-   "mall": "G마켓",
-   "url": "https://click.linkprice.com/click.php?m=gmarket&a=A100710155&l=9999&l_cd1=D&l_cd2=H&tu=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D2935313941",
-   "button": "G마켓에서 보기",
-   "program": "affiliate",
-   "changed": false,
-   "day": "11/21 05:31",
-   "channels": [
-    "blog",
-    "threads",
-    "x"
-   ]
-  },
-  {
-   "id": "daa65a235a",
-   "name": "삼립호빵 개별포장 호빵12입 2박스(호빵네빵)+크림빵2봉",
-   "price": 19430,
-   "label": "쿠폰가",
-   "was": 24900,
-   "mall": "G마켓",
-   "url": "https://click.linkprice.com/click.php?m=gmarket&a=A100710155&l=9999&l_cd1=D&l_cd2=H&tu=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D3267983596",
-   "button": "G마켓에서 보기",
-   "program": "affiliate",
-   "changed": false,
-   "day": "11/21 01:33",
    "channels": [
     "threads",
     "x"
