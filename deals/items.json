@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:59:39+09:00",
+ "updated": "2026-11-27T22:28:01+09:00",
  "items": [
   {
    "id": "ea049c0a2e",
@@ -12,8 +12,9 @@
    "button": "쿠팡에서 보기",
    "program": "coupang",
    "changed": false,
-   "day": "11/27 20:16",
+   "day": "11/27 22:03",
    "channels": [
+    "blog",
     "threads",
     "x"
    ]
