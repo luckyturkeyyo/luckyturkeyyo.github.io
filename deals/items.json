@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:59:29+09:00",
+ "updated": "2026-11-28T01:31:36+09:00",
  "items": [
   {
    "id": "ea049c0a2e",
@@ -679,23 +679,6 @@
    "program": "affiliate",
    "changed": false,
    "day": "11/21 01:33",
-   "channels": [
-    "threads",
-    "x"
-   ]
-  },
-  {
-   "id": "2b29a5db01",
-   "name": "샤오미 미지아 스마트 BMI체중계 S200",
-   "price": 16920,
-   "label": "쿠폰가",
-   "was": 19900,
-   "mall": "G마켓",
-   "url": "https://click.linkprice.com/click.php?m=gmarket&a=A100710155&l=9999&l_cd1=D&l_cd2=H&tu=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D4386117928",
-   "button": "G마켓에서 보기",
-   "program": "affiliate",
-   "changed": false,
-   "day": "11/21 01:03",
    "channels": [
     "threads",
     "x"
