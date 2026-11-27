@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:32:26+09:00",
+ "updated": "2026-11-28T00:59:29+09:00",
  "items": [
   {
    "id": "ea049c0a2e",
@@ -699,23 +699,6 @@
    "channels": [
     "threads",
     "x"
-   ]
-  },
-  {
-   "id": "0f269a452b",
-   "name": "모나리자 붕어빵향 미용티슈 200매 6팩",
-   "price": 9900,
-   "label": "쿠폰가",
-   "was": 15240,
-   "mall": "G마켓",
-   "url": "https://click.linkprice.com/click.php?m=gmarket&a=A100710155&l=9999&l_cd1=D&l_cd2=H&tu=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D4901180398",
-   "button": "G마켓에서 보기",
-   "program": "affiliate",
-   "changed": false,
-   "day": "11/21 00:34",
-   "channels": [
-    "blog",
-    "threads"
    ]
   }
  ]
