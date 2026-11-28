@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-28T11:01:44+09:00",
+ "updated": "2026-11-28T11:06:09+09:00",
  "items": [
+  {
+   "id": "b3f236bcde",
+   "name": "액츠 파워젤 세탁세제 4.21Lx2개+1개p+섬유...",
+   "price": 22900,
+   "label": "",
+   "was": null,
+   "mall": "카카오톡딜",
+   "url": "https://store.kakao.com/pigeon/products/14440221",
+   "button": "카카오톡딜에서 보기",
+   "program": "seller",
+   "changed": false,
+   "day": "11/28 11:06",
+   "channels": [
+    "ig",
+    "yt"
+   ]
+  },
   {
    "id": "2b9af231fe",
    "name": "코디 라벤더 스페셜 30m 30롤 3팩",
@@ -35,22 +52,6 @@
     "blog",
     "threads",
     "x"
-   ]
-  },
-  {
-   "id": "b3f236bcde",
-   "name": "액츠 파워젤 세탁세제 4.21Lx2개+1개p+섬유...",
-   "price": 22900,
-   "label": "",
-   "was": null,
-   "mall": "카카오톡딜",
-   "url": "https://store.kakao.com/pigeon/products/14440221",
-   "button": "카카오톡딜에서 보기",
-   "program": "seller",
-   "changed": false,
-   "day": "11/27 17:42",
-   "channels": [
-    "yt"
    ]
   },
   {
