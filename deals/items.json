@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-28T20:58:52+09:00",
+ "updated": "2026-11-28T21:29:45+09:00",
  "items": [
+  {
+   "id": "c01dd03843",
+   "name": "스프라이트 캔, 350ml, 24개",
+   "price": 12980,
+   "label": "",
+   "was": 23000,
+   "mall": "쿠팡",
+   "url": "https://link.coupang.com/a/i2lQ34VKrQ",
+   "button": "쿠팡에서 보기",
+   "program": "coupang",
+   "changed": false,
+   "day": "11/28 21:29",
+   "channels": [
+    "blog",
+    "threads",
+    "x"
+   ]
+  },
   {
    "id": "3899a5b02b",
    "name": "스프라이트 제로 사이다, 350ml, 24개 (11,950원) ...",
