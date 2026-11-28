@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:06:09+09:00",
+ "updated": "2026-11-28T11:30:50+09:00",
  "items": [
   {
    "id": "b3f236bcde",
@@ -96,9 +96,9 @@
    "label": "쿠폰가",
    "was": null,
    "mall": "옥션",
-   "url": "https://click.linkprice.com/click.php?m=auction&a=A100710155&l=9999&l_cd1=D&l_cd2=H&tu=https%3A%2F%2Fitempage3.auction.co.kr%2FDetailView.aspx%3FItemNo%3DE847938295%26frm3%3DV2",
-   "button": "옥션에서 보기",
-   "program": "affiliate",
+   "url": "https://link.coupang.com/a/i2kCL6YzL2",
+   "button": "쿠팡에서 보기",
+   "program": "coupang",
    "changed": false,
    "day": "11/27 12:03",
    "channels": [
