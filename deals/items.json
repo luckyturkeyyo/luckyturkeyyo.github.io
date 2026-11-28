@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:30:50+09:00",
+ "updated": "2026-11-28T11:35:50+09:00",
  "items": [
   {
    "id": "b3f236bcde",
@@ -12,8 +12,9 @@
    "button": "카카오톡딜에서 보기",
    "program": "seller",
    "changed": false,
-   "day": "11/28 11:06",
+   "day": "11/28 11:35",
    "channels": [
+    "fb",
     "ig",
     "yt"
    ]
